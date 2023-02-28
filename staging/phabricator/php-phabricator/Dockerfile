@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:trusty-20190515
+FROM ubuntu:rolling
 
 # Install all the required packages.
 RUN apt-get update && \
