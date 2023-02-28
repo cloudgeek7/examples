@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:trusty-20190515
+FROM ubuntu:rolling
 
 # add our user and group first to make sure their IDs get assigned
 # consistently, regardless of whatever dependencies get added
