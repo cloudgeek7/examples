@@ -32,7 +32,7 @@
     </build>
 
     <properties>
-        <logback.version>1.2.7</logback.version>
+        <logback.version>1.4.5</logback.version>
         <cassandra.version>4.0.0</cassandra.version>
     </properties>
 
