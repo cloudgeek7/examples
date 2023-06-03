@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:rolling
+FROM ubuntu:23.04
 
 # Install all the required packages.
 RUN apt-get update && \
