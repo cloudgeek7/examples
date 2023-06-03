@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ubuntu:rolling
+FROM ubuntu:23.04
 
 # add our user and group first to make sure their IDs get assigned
 # consistently, regardless of whatever dependencies get added
